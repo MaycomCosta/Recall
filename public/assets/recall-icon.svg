@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Recall</title>
+  <rect width="64" height="64" rx="14" fill="#285942"/>
+  <path d="M14 13h18v40l-18-7V13Zm18 0h18v33l-18 7V13Z" fill="none" stroke="#fffef9" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M21 23h4m-4 9h4m14-9h4m-4 9h4" stroke="#fffef9" stroke-width="3" stroke-linecap="round"/>
+</svg>
